@@ -41,5 +41,6 @@ The model’s performance was evaluated using multiple metrics to ensure high ac
 
 **Confusion Matrix**
 A Confusion Matrix was created to visually represent the model’s performance in classifying the toxic comments. The matrix shows how well the model distinguishes between the six predefined categories: Toxic, Severe Toxic, Obscene, Threat, Insult, and Identity Hate.
+Confusion Matrix :(https://github.com/yashisingh-ds/Advanced-Toxic-Comment-Classifier/blob/main/confusionmatrix.png)
 
 
