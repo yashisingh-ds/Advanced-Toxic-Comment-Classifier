@@ -17,11 +17,11 @@ Build a robust classifier to accurately identify toxic comments across six prede
 Applying advanced preprocessing techniques and machine learning techniques  to ensure high accuracy. Additionally, analyze and provide insights into the patterns and distribution of toxic content within the dataset.
 
 🛠️ Tools and Technologies
+- **Programming Language:** Python  
+- **Development Environment:** Jupyter Notebook  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow  
+- **Visualization Tools:** Matplotlib and Seaborn for in-depth exploratory data analysis (EDA).  
 
--**Programming Language:** Python
--**Development Environment:** Jupyter Notebook 
--**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Tensorflow
--**Visualization Tools:** Matplotlib and Seaborn for in-depth exploratory data analysis (EDA).
 
 
 
