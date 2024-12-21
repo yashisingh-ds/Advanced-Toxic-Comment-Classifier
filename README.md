@@ -43,4 +43,11 @@ The model’s performance was evaluated using multiple metrics to ensure high ac
 A Confusion Matrix was created to visually represent the model’s performance in classifying the toxic comments. The matrix shows how well the model distinguishes between the six predefined categories: Toxic, Severe Toxic, Obscene, Threat, Insult, and Identity Hate.
 Confusion Matrix :(https://github.com/yashisingh-ds/Advanced-Toxic-Comment-Classifier/blob/main/confusionmatrix.png)
 
-
+**Model Performance Visualizations**
+The following performance visualizations provide deeper insights into the model’s training and evaluation:
+- **Learning Curve for Training Accuracy**: Displays how the model's accuracy improves over time during training. (https://github.com/yashisingh-ds/Advanced-Toxic-Comment-Classifier/blob/main/LearningCurve(Training%20Accuracy).png)
+- **Learning Curve for Validation Accuracy**: Shows how the model performs on validation data across training epochs. (https://github.com/yashisingh-ds/Advanced-Toxic-Comment-Classifier/blob/main/LearningCurve(Validation%20Accuracy).png)
+- **ROC Curve**: Illustrates the model's ability to distinguish between classes, with a higher curve indicating better performance.(https://github.com/yashisingh-ds/Advanced-Toxic-Comment-Classifier/blob/main/ROC%20Curve.png)
+- **Precision-Recall Curve**: Highlights the trade-off between precision and recall, helping evaluate the model's effectiveness in handling imbalanced data. (https://github.com/yashisingh-ds/Advanced-Toxic-Comment-Classifier/blob/main/Precison-Recall%20Curve.png)
+- **ROC Curve Comparison**: Compares the performance of the model using different metrics and thresholds, offering a holistic view of its classification capabilities.(
+https://github.com/yashisingh-ds/Advanced-Toxic-Comment-Classifier/blob/main/ROC%20Curve%20Comparison.png)
