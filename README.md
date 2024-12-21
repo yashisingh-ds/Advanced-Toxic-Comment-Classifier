@@ -9,19 +9,28 @@ This advanced solution is deployed for real-time toxic comment detection, levera
 
 Build a robust classifier to accurately identify toxic comments across six predefined categories:
 **->Toxic**
+
 **->Severe Toxic**
+
 **->Obscene**
+
 **->Threat**
+
 **->Insult**
+
 **->Identity Hate**
+
 Applying advanced preprocessing techniques and machine learning techniques  to ensure high accuracy. Additionally, analyze and provide insights into the patterns and distribution of toxic content within the dataset.
 
 🛠️ Tools and Technologies
 
 **->Programming Language:** Python
+
 **->Development Environment:** Jupyter Notebook 
+
 **->Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Tensorflow
-**_>Visualization Tools:** Matplotlib and Seaborn for in-depth exploratory data analysis (EDA).
+
+**->Visualization Tools:** Matplotlib and Seaborn for in-depth exploratory data analysis (EDA).
 
 
 
