@@ -51,3 +51,6 @@ The following performance visualizations provide deeper insights into the modelâ
 - **Precision-Recall Curve**: Highlights the trade-off between precision and recall, helping evaluate the model's effectiveness in handling imbalanced data. (https://github.com/yashisingh-ds/Advanced-Toxic-Comment-Classifier/blob/main/Precison-Recall%20Curve.png)
 - **ROC Curve Comparison**: Compares the performance of the model using different metrics and thresholds, offering a holistic view of its classification capabilities.(
 https://github.com/yashisingh-ds/Advanced-Toxic-Comment-Classifier/blob/main/ROC%20Curve%20Comparison.png)
+
+**ðŸ“Š Conclusion**
+The Toxic Comment Classifier achieved a high accuracy of 95.31% in detecting harmful content across multiple categories. The model performs well in real-world scenarios, and future improvements can further enhance its effectiveness and scalability.
