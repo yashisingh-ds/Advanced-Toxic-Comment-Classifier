@@ -19,12 +19,14 @@ Build a robust classifier to accurately identify toxic comments across six prede
 Applying advanced preprocessing techniques and machine learning techniques  to ensure high accuracy. Additionally, analyze and provide insights into the patterns and distribution of toxic content within the dataset.
 
 🛠️ Tools and Technologies
+
 - **Programming Language:** Python  
 - **Development Environment:** Jupyter Notebook  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow  
 - **Visualization Tools:** Matplotlib and Seaborn for in-depth exploratory data analysis (EDA).  
 
 **🚀 Methodology**
+
 The model was built using **Convolutional Neural Networks (CNN)** to detect toxic comments across six categories.  
 - **Data Preprocessing**: Text was cleaned, tokenized, and padded to ensure uniform input for the CNN model.  
 - **Feature Extraction**: An embedding layer was used to represent words as dense vectors, capturing semantic relationships.  
@@ -33,6 +35,7 @@ The model was built using **Convolutional Neural Networks (CNN)** to detect toxi
 - **Evaluation**: The model achieved **95.31% accuracy** with additional metrics like precision, recall, and F1-score for balanced performance across all categories.
 
 📈**Results**
+
 The model’s performance was evaluated using multiple metrics to ensure high accuracy and reliability in detecting toxic comments across six categories. The key evaluation metrics are as follows:
 - **Accuracy:** 95.31%
 - **Precision:** 95.08%
@@ -44,6 +47,7 @@ A Confusion Matrix was created to visually represent the model’s performance i
 Confusion Matrix :(https://github.com/yashisingh-ds/Advanced-Toxic-Comment-Classifier/blob/main/confusionmatrix.png)
 
 **Model Performance Visualizations**
+
 The following performance visualizations provide deeper insights into the model’s training and evaluation:
 - **Learning Curve for Training Accuracy**: Displays how the model's accuracy improves over time during training. (https://github.com/yashisingh-ds/Advanced-Toxic-Comment-Classifier/blob/main/LearningCurve(Training%20Accuracy).png)
 - **Learning Curve for Validation Accuracy**: Shows how the model performs on validation data across training epochs. (https://github.com/yashisingh-ds/Advanced-Toxic-Comment-Classifier/blob/main/LearningCurve(Validation%20Accuracy).png)
@@ -53,4 +57,5 @@ The following performance visualizations provide deeper insights into the model�
 https://github.com/yashisingh-ds/Advanced-Toxic-Comment-Classifier/blob/main/ROC%20Curve%20Comparison.png)
 
 **📊 Conclusion**
+
 The Toxic Comment Classifier achieved a high accuracy of 95.31% in detecting harmful content across multiple categories. The model performs well in real-world scenarios, and future improvements can further enhance its effectiveness and scalability.
