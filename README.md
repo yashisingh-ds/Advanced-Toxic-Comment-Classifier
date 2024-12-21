@@ -38,8 +38,8 @@ The model’s performance was evaluated using multiple metrics to ensure high ac
 - **Precision:** 95.08%
 - **Recall:** 95.31%
 - **F1-Score:** 94.92%
-  
+
 **Confusion Matrix**
 A Confusion Matrix was created to visually represent the model’s performance in classifying the toxic comments. The matrix shows how well the model distinguishes between the six predefined categories: Toxic, Severe Toxic, Obscene, Threat, Insult, and Identity Hate.
-Access confusion matrix from here:confusionmatrix.png
+
 
