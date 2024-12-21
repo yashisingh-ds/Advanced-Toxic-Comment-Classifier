@@ -8,6 +8,13 @@ This advanced solution is deployed for real-time toxic comment detection, levera
 🎯**Objectives**
 
 Build a robust classifier to accurately identify toxic comments across six predefined categories:
+- Toxic  
+- Severe Toxic  
+- Obscene  
+- Threat  
+- Insult  
+- Identity Hate
+
 **->Toxic**
 
 **->Severe Toxic**
